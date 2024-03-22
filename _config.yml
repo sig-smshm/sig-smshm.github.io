@@ -21,14 +21,13 @@
 title: SIG-SMSHM
 email: sig-smshm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  人工知能学会第二種研究会 スマートマニュファクチャリングとシステム健全性管理研究会（SIG-SMSHM）のウェブサイトです。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sig-smshm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
