@@ -50,3 +50,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+show_downloads: False
+
+github:
+  is_projet_page: False
+
