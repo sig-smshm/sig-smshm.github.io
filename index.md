@@ -1,13 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-title: "スマートマニュファクチャリングとシステム健全性管理研究会（SIG-SMSHM）"
+title: "SIG-SMSHM: スマートマニュファクチャリングとシステム健全性管理研究会"
 description: 人工知能学会第二種研究会 スマートマニュファクチャリングとシステム健全性管理研究会（SIG-SMSHM）のウェブサイトです。
 ---
 
-（ここに新着情報）
+# お知らせ
+
+<ol style="list-style-type: none;">
+{% for post in site.posts %}
+  <li>{{ post.date | date: "%Y-%m-%d" }} &nbsp;&raquo;&nbsp; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ol>
 
 * * *
 
