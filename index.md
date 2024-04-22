@@ -82,4 +82,4 @@ AI コミュニティが貢献できる要素技術としては、ベイズ推�
 
 * * *
 
-お問い合わせは [sigsmshm@gmail.com](mailto:sigsmshm@gmail.com) にお願いいたします。
+お問い合わせは [sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp](mailto:sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp) にお願いいたします。
