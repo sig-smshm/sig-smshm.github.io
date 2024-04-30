@@ -86,9 +86,8 @@ SM&SHMは、対象物の動作原理という観点からは、機械、航空�
 
 ## お問い合わせ先
 
-人工知能学会 SIG-SMSHM研究会事務局
-
-sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp 
+人工知能学会 SIG-SMSHM研究会事務局<br />
+[sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp](mailto:sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp)
 
 * * *
 
