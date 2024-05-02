@@ -5,6 +5,11 @@
 
 // -------------------------------------
 
+.deadline {
+  font-weight: bold;
+  color: red;
+}
+
 .page-header {
     @include large {
       padding: 4rem 4.5rem;
