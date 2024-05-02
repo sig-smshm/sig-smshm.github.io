@@ -16,8 +16,11 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="{{ site.baseurl }}{% link about.md %}" class="btn">研究会の趣旨</a>
+      <a href="{{ site.baseurl }}{% link ml.md %}" class="btn">研究会メーリングリスト</a>
+      <a href="{{ site.baseurl }}{% link organizers.md %}" class="btn">運営組織</a>
     </header>
 
     <main id="content" class="main-content" role="main">
