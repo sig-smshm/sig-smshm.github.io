@@ -50,7 +50,9 @@ SM&SHMは、対象物の動作原理という観点からは、機械、航空�
 
 [https://www.ai-gakkai.or.jp/sig-system/sigusers/presenter_add/smshm/sig_smshm_1](https://www.ai-gakkai.or.jp/sig-system/sigusers/presenter_add/smshm/sig_smshm_1)
 
-発表者は対面を想定しております。
+対面またはオンラインでご発表いただけます。<br />
+<s>発表者は対面を想定しております。</s>
+
 人工知能学会員に限らずどなたでも申し込みいただけます。
 発表参加費は無料です。
 
