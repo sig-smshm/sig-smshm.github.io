@@ -79,7 +79,7 @@ SM&SHMは、対象物の動作原理という観点からは、機械、航空�
 - 植野 研（東芝）<br />
 　インフラ・製造現場におけるSM&SHM実現のためのAI技術の活用（仮題）
 - 福島 真太朗（トヨタ）<br />
-　車両・製造現場におけるSM&SHM実現に向けた異常・予兆の課題と挑戦（仮題）
+　車両・製造現場におけるSM&SHM実現に向けた異常・予兆検知の課題と挑戦
 - Khan, Samir（東大）<br />
 　The future of SHM in Aerospace Applications: Trends and Technologies（仮題）
 - 王 暁星（MathWorks）<br />
