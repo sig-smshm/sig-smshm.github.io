@@ -10,7 +10,109 @@
 所在地：〒153-0041 東京都目黒区駒場４丁目６−１<br />
 地図： [https://maps.app.goo.gl/JXBze4nJUmHHeqAt5](https://maps.app.goo.gl/JXBze4nJUmHHeqAt5)
 
+アクセスについては先端研ウェブページ [https://www.rcast.u-tokyo.ac.jp/ja/access.html](https://www.rcast.u-tokyo.ac.jp/ja/access.html) もご覧ください。
+
+<div style="text-align: center;"><img src="assets/images/map_rcast_bldg4.png" style="width: 400px;" /></div>
+
 オンライン会場：zoomを利用します（リンクは後日お知らせいたします）
+
+## プログラム
+
+- 一般講演: 1件あたり20分（発表15分+質疑5分）
+- ポジション発表: 1件あたり30分（発表25分、質疑5分）
+
+<style type="text/css">
+	.program td,th { vertical-align: top; }
+	.mark { background-color: #eee; }
+</style>
+
+<table class="program" style="font-size: small;">
+	<tbody>
+		<tr class="mark">
+			<th>09:30-09:40</th>
+			<td>開会挨拶</td>
+		</tr>
+		<tr>
+			<th>09:40-10:10</th>
+			<td>基調講演：データ駆動型健全性監視の課題と展望<br />矢入 健久（東大）</td>
+		</tr>
+		<tr>
+			<th>10:10-10:40</th>
+			<td>ポジション発表：インフラ・製造現場におけるSM&SHM実現に向けた課題と時系列波形に基づく異常診断アプローチ<br />植野 研、山口 晃広（東芝）</td>
+		</tr>
+		<tr>
+			<th>10:40-11:10</th>
+			<td>ポジション発表：車両・製造現場におけるSM&SHM実現に向けた異常・予兆検知の課題と挑戦<br />福島 真太朗（トヨタ）</td>
+		</tr>
+		<tr class="mark">
+			<th>11:10-11:25</th>
+			<td>小休憩</td>
+		</tr>
+		<tr>
+			<th>11:25-11:55</th>
+			<td>ポジション発表：The future of SHM in Aerospace Applications: Trends and Technologies<br />Khan, Samir（東大）</td>
+		</tr>
+		<tr>
+			<th>11:55-12:25</th>
+			<td>ポジション発表：SHM分野におけるシミュレーションと機械学習の活用手法<br />王 暁星（MathWorks）</td>
+		</tr>
+		<tr>
+			<th>12:25-12:55</th>
+			<td>ポジション発表：システム健全性管理のための時系列処理の課題とアプローチ<br />今村 誠（東海大）</td>
+		</tr>
+		<tr class="mark">
+			<th>12:55-14:25</th>
+			<td>昼休憩（昼食は各自でお願いいたします）</td>
+		</tr>
+		<tr>
+			<th>14:25-14:45</th>
+			<td>深層学習による時系列異常検知手法の課題点<br />中島 琢登</td>
+		</tr>
+		<tr>
+			<th>14:45-15:05</th>
+			<td>時系列波形異常検知方式MADLIDと振動異常の検知評価<br />中村 隆顕</td>
+		</tr>
+		<tr>
+			<th>15:05-15:25</th>
+			<td>周期波形の僅かな変化を検知可能な１クラス Shapelets 学習法<br />山本 昌治</td>
+		</tr>
+		<tr>
+			<th>15:25-15:45</th>
+			<td>グラフニューラルネットワークを用いた故障予兆検知および要因推定手法<br />篠崎 佑太</td>
+		</tr>
+		<tr class="mark">
+			<th>15:45-16:00</th>
+			<td>小休憩</td>
+		</tr>
+		<tr>
+			<th>16:00-16:20</th>
+			<td>自励駆動型超音波振動を用いた構造ヘルスモニタリング技術<br />田中 昂</td>
+		</tr>
+		<tr>
+			<th>16:20-16:40</th>
+			<td>運転条件を考慮した教師なしドメイン適応による余寿命予測<br />李 耕宇</td>
+		</tr>
+		<tr>
+			<th>16:40-17:00</th>
+			<td>量子インスパイアド技術を活用した生産計画立案自動化の取り組み<br />千嶋 博</td>
+		</tr>
+		<tr class="mark">
+			<th>17:00-17:10</th>
+			<td>閉会挨拶</td>
+		</tr>
+		<tr class="mark">
+			<th></th>
+			<td>懇親会（参加申し込みが必要です）</td>
+		</tr>
+	</tbody>
+</table>
+
+## お問い合わせ先
+
+SIG-SMSHM事務局<br />
+[sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp](mailto:sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp)
+
+---
 
 ## 開催趣旨
 
@@ -22,71 +124,6 @@ SM&SHMは、対象物の動作原理という観点からは、機械、航空�
 本研究会では、AIに基づく方法論・ツール・基盤技術という観点から、SM&SHMに対する現場ニーズに応えるために分野横断的な発表・議論の場を提供することにより、SM&SHM分野での日本のコミュニティを育成するとともに、既存の学術領域を超えた新たな領域の共創を促進することを目的としています。
 発表および聴講の参加費は無料です。幅広い皆様の発表申し込み、参加申し込みをお待ちしております。
 人工知能学会員に限らずどなたでも申し込みいただけます。
-
-## プログラム
-
-※ 各発表の時間は今後変更することがあります。
-
-<table>
-	<tbody>
-		<tr>
-			<td>09:00-09:10</td>
-			<td>開会</td>
-		</tr>
-		<tr>
-			<td>09:10-09:40</td>
-			<td>基調講演</td>
-		</tr>
-		<tr>
-			<td>09:40-12:10</td>
-			<td>ポジション発表</td>
-		</tr>
-		<tr>
-			<td>12:10-13:10</td>
-			<td>昼休憩<br />（昼食は各自でお願いいたします）</td>
-		</tr>
-		<tr>
-			<td>13:10-15:10</td>
-			<td>一般講演 ①</td>
-		</tr>
-		<tr>
-			<td>15:10-15:20</td>
-			<td>小休憩</td>
-		</tr>
-		<tr>
-			<td>15:20-17:20</td>
-			<td>一般講演 ②</td>
-		</tr>
-		<tr>
-			<td>17:20-17:30</td>
-			<td>閉会</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>懇親会<br />（参加申し込みが必要です）</td>
-		</tr>
-	</tbody>
-</table>
-
-**一般講演は1件あたり20分（発表15分+質疑5分）**、ポジション発表は1件あたり30分（発表25分、質疑5分）を予定しています。
-
-
-## 基調講演　
-
-矢入 健久（東大）：データ駆動型健全性監視の課題と展望
-
-## ポジション発表
-
-- 植野 研、山口 晃広（東芝）<br />
-　インフラ・製造現場におけるSM&SHM実現に向けた課題と時系列波形に基づく異常診断アプローチ
-- 福島 真太朗（トヨタ）<br />
-　車両・製造現場におけるSM&SHM実現に向けた異常・予兆検知の課題と挑戦
-- Khan, Samir（東大）<br />
-　The future of SHM in Aerospace Applications: Trends and Technologies（仮題）
-- 王 暁星（MathWorks）<br />
-　SHM分野におけるシミュレーションと機械学習の活用手法（仮題）
-- 今村 誠（東海大）<br />
-　システム健全性管理のための時系列処理の課題とアプローチ
 
 ## 発表申込
 
@@ -149,8 +186,3 @@ SM&SHMは、対象物の動作原理という観点からは、機械、航空�
 研究会終了後に参加者の交流のために東大駒場キャンパス付近にて懇親会を予定しています。
 懇親会の参加申し込みも発表、聴講申込みから合わせてご登録ください。
 なお、懇親会参加費は5000円程度を予定しています。
-
-## お問い合わせ先
-
-SIG-SMSHM事務局<br />
-[sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp](mailto:sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp)
