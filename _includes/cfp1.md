@@ -14,7 +14,7 @@
 
 <div style="text-align: center;"><img src="assets/images/map_rcast_bldg4.png" style="width: 400px;" /></div>
 
-オンライン会場：zoomを利用します（リンクは後日お知らせいたします）
+オンライン会場：[https://us02web.zoom.us/j/83403544590?pwd=L242UXJOL3F4ZlFBb0FkQXZVVlJPZz09](https://us02web.zoom.us/j/83403544590?pwd=L242UXJOL3F4ZlFBb0FkQXZVVlJPZz09)
 
 ## プログラム
 
