@@ -12,9 +12,15 @@
 
 アクセスについては先端研ウェブページ [https://www.rcast.u-tokyo.ac.jp/ja/access.html](https://www.rcast.u-tokyo.ac.jp/ja/access.html) もご覧ください。
 
-<div style="text-align: center;"><img src="assets/images/map_rcast_bldg4.png" style="width: 400px;" /></div>
+<div style="text-align: center;"><img src="assets/images/map_rcast_bldg4.png" style="width: 500px;" /></div>
 
 オンライン会場：[https://us02web.zoom.us/j/83403544590?pwd=L242UXJOL3F4ZlFBb0FkQXZVVlJPZz09](https://us02web.zoom.us/j/83403544590?pwd=L242UXJOL3F4ZlFBb0FkQXZVVlJPZz09)
+
+## 懇親会（参加申込が必要です）
+
+懇親会会場は、駒場リサーチキャンパス内の Dining Lab 食堂コマニ です。
+
+研究会会場の４号館の隣（キャンパス奥側）の建物です。
 
 ## プログラム
 
