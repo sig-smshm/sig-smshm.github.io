@@ -71,11 +71,11 @@
 			<td>昼休憩（昼食は各自でお願いいたします）</td>
 		</tr>
 		<tr>
-			<th><span style="color:red;">14:30</span>-14:55</th>
+			<th><span style="color:red;">14:30</span>-14:50</th>
 			<td>深層学習による時系列異常検知手法の課題点<br />中島 琢登</td>
 		</tr>
 		<tr>
-			<th>14:55-15:10</th>
+			<th>14:50-15:10</th>
 			<td>時系列波形異常検知方式MADLIDと振動異常の検知評価<br />中村 隆顕</td>
 		</tr>
 		<tr>
