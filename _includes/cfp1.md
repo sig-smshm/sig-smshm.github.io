@@ -14,7 +14,7 @@
 
 <div style="text-align: center;"><img src="assets/images/map_rcast_bldg4.png" style="width: 500px;" /></div>
 
-オンライン会場：[https://us02web.zoom.us/j/83403544590?pwd=L242UXJOL3F4ZlFBb0FkQXZVVlJPZz09](https://us02web.zoom.us/j/83403544590?pwd=L242UXJOL3F4ZlFBb0FkQXZVVlJPZz09)
+オンライン会場：zoom
 
 ## 懇親会（参加申込が必要です）
 
