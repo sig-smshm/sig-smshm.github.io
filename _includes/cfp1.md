@@ -1,7 +1,3 @@
-予稿集（人工知能学会第二種研究会資料）
-<br />
-[https://www.jstage.jst.go.jp/browse/jsaisigtwo/2024/SMSHM-001/_contents/-char/ja](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2024/SMSHM-001/_contents/-char/ja)
-
 ## 開催日
 
 2024年7月30日（火）
