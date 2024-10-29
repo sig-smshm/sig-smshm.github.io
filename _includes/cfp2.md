@@ -53,7 +53,7 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 一般講演　発表時間：1件当たり20分（発表15分＋質疑5分）
 
-ポジション発表　発表時間：1件当たり25分（発表20分＋質疑5分）
+ポジション発表　発表時間：1件当たり30分（発表25分＋質疑5分）
 
 発表申し込みは以下のURLからお願いします。<br />
 [https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/sigais2024/smshm](https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/sigais2024/smshm)
@@ -68,7 +68,7 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 ## 原稿提出
 
-<p class="deadline">原稿提出締切：2024年11月15日（月） 23:59 JST</p>
+<p class="deadline">原稿提出締切：2024年11月15日（金） 23:59 JST</p>
 
 以下の手順で、期日までに原稿をご登録ください。
 1. 発表登録後、登録されたメールアドレスに確認のメールが届きます。
