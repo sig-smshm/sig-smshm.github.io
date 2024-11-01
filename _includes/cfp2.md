@@ -47,9 +47,26 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 [人工知能学会 合同研究会2024（SIGAIs 2024） https://www.ai-gakkai.or.jp/sigais2024/](https://www.ai-gakkai.or.jp/sigais2024/)
 
+## 懇親会
+
+研究会終了後に、参加者交流のために懇親会を企画しています。
+
+！！この懇親会は、合同研究会全体の「参加者交流会」とは別の企画です！！
+
+- 参加費：6,000円程（当日現金でお支払いください）
+- 日時：2024年12月21日　18：00- 予定
+- 場所：慶応義塾大学 日吉キャンパス付近
+- キャンセルポリシー：予約の都合上、7日前～前日はキャンセル料50％、当日はキャンセル料100%をいただきます。キャンセルの際は、必ず事務局（[sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp](mailto:sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp)）までご連絡ください。
+- 領収証：ご入用の際は参加登録の際に入力ください。
+
+**学会の参加登録とは別に，以下のURLから参加登録をお願いいたします．**<br />
+[https://forms.office.com/r/XwdN9CLcS4](https://forms.office.com/r/XwdN9CLcS4)
+
 ## 発表申込
 
-<p class="deadline">発表申込締切：2024年11月1日（金） 23:59 JST</p>
+<p class="deadline">発表申込締切：</p>
+<s>2024年11月1日（金） 23:59 JST</s>
+<p class="deadline">2024年11月13日（水） 23:59 JST（※〆切を延長しました）</p>
 
 一般講演　発表時間：1件当たり20分（発表15分＋質疑5分）
 
@@ -68,7 +85,9 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 ## 原稿提出
 
-<p class="deadline">原稿提出締切：2024年11月15日（金） 23:59 JST</p>
+<p class="deadline">原稿提出締切：</p>
+<s>2024年11月15日（金） 23:59 JST</s>
+<p class="deadline">2024年11月24日（日） 23:59 JST　（※〆切を延長しました）</p>
 
 以下の手順で、期日までに原稿をご登録ください。
 1. 発表登録後、登録されたメールアドレスに確認のメールが届きます。
@@ -83,21 +102,6 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 提出いただいた原稿は研究会当日にオンライン会場にて電子的に配布いたします。
 原稿著作権等に関する扱いは研究会著作権規程を参照ください。
 なお、研究会主査及び幹事で構成する委員会において原稿内容が研究会の趣旨から大きく外れると認められる場合には、発表をお断りする場合があります。
-
-## 懇親会
-
-研究会終了後に、参加者交流のために懇親会を企画しています。
-
-！！この懇親会は、合同研究会全体の「参加者交流会」とは別の企画です！！
-
-- 参加費：6,000円程（当日現金でお支払いください）
-- 日時：2024年12月21日　18：00- 予定
-- 場所：慶応義塾大学 日吉キャンパス付近
-- キャンセルポリシー：予約の都合上、7日前～前日はキャンセル料50％、当日はキャンセル料100%をいただきます。キャンセルの際は、必ず事務局（[sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp](mailto:sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp)）までご連絡ください。
-- 領収証：ご入用の際は参加登録の際に入力ください．
-
-学会の参加登録とは別に，以下のURLから参加登録をお願いいたします．<br />
-[https://forms.office.com/r/XwdN9CLcS4](https://forms.office.com/r/XwdN9CLcS4)
 
 
 ## お問い合わせ先
