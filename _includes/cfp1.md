@@ -12,7 +12,7 @@
 
 アクセスについては先端研ウェブページ [https://www.rcast.u-tokyo.ac.jp/ja/access.html](https://www.rcast.u-tokyo.ac.jp/ja/access.html) もご覧ください。
 
-<div style="text-align: center;"><img src="assets/images/map_rcast_bldg4.png" style="width: 500px;" /></div>
+<div style="text-align: center;"><img src="/assets/images/map_rcast_bldg4.png" style="width: 500px;" /></div>
 
 オンライン会場：zoom
 
