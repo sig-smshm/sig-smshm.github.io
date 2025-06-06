@@ -55,7 +55,7 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 ## 聴講申込期間
 
-<p class="deadline">2025年5月30日（金） ～ 7月4日（金） 23:59 JST</p>
+<p class="deadline">2025年5月30日（金） ～ 7月11日（金） 23:59 JST</p>
 
 聴講の参加申し込みは以下のフォームからお願いいたします。<br />
 [https://www.ai-gakkai.or.jp/sig-system/sigusers/add/smshm/sig_smshm_3](https://www.ai-gakkai.or.jp/sig-system/sigusers/add/smshm/sig_smshm_3)<br />
