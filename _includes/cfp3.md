@@ -47,8 +47,7 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 [https://www.ai-gakkai.or.jp/sig-system/sigusers/presenter_add/smshm/sig_smshm_3](https://www.ai-gakkai.or.jp/sig-system/sigusers/presenter_add/smshm/sig_smshm_3)<br />
 発表者は対面を想定しております。人工知能学会員に限らずどなたでも申し込みいただけます。発表参加費は無料です。
 
-一般発表の原稿はA4用紙原則6枚以内です。スタイルファイル・サンプル等は [https://www.ai-gakkai.or.jp/sig/announce/sig-style/]
-(https://www.ai-gakkai.or.jp/sig/announce/sig-style/) からダウンロードしてください。
+一般発表の原稿はA4用紙原則6枚以内です。スタイルファイル・サンプル等は [https://www.ai-gakkai.or.jp/sig/announce/sig-style/](https://www.ai-gakkai.or.jp/sig/announce/sig-style/) からダウンロードしてください。
 原稿の提出は、提出期限までに発表申込内容編集フォームからPDFファイルのアップロードをお願いいたします。発表申込み後の確認メールに、フォームへのアクセス用URLが記載されています。
 
 提出された原稿は、研究会当日にオンラインにて電子的に配布いたします。原稿著作権等に関する扱いは研究会著作権規程を参照ください。年間を通じて本研究会に投稿された原稿の中から、研究会優秀賞(候補)および研究会奨励賞を選定します。研究会優秀賞については，人工知能学会研究会運営委員会において候補として審議され、採択された場合には、人工知能学会学会誌で紹介されるとともに、総会において表彰されます。なお、研究会主査及び幹事で構成する委員会において原稿内容が研究会の趣旨から大きく外れると認められる場合には、発表をお断りする場合があります。また、申し込み多数の場合には、期間途中で受付を終了する場合があります。
