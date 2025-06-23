@@ -51,13 +51,13 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 発表申込期限: <strong>2025年7月4日（金） 23:59 JST</strong>
 
-原稿提出期限: <p class="deadline">2025年7月14日（月） 23:59 JST</p>（延長しました）
+原稿提出期限: <span class="deadline">2025年7月14日（月） 23:59 JST</span>（延長しました）
 
 懇親会申込期限: <strong>2025年7月14日（月） 23:59 JST</strong>
 
 プログラム公開: 2025年7月16日（水）
 
-聴講申込期限: <p class="deadline">2025年7月30日（水） 23:59 JST</p>（延長しました）
+聴講申込期限: <span class="deadline">2025年7月30日（水） 23:59 JST</span>（延長しました）
 
 ## 発表申込・原稿提出の方法
 
