@@ -36,8 +36,8 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 
 ## 招待講演
 
-ディジタルトリプレットが開く　これからのものづくり（仮）<br />
-梅田 靖（東京大学）
+<strong>梅田 靖（東京大学）</strong><br />
+ディジタルトリプレットが開く　これからのものづくり（仮）
 
 ## ポジション発表
 
