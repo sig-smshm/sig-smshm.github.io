@@ -3,4 +3,4 @@ title: "第３回 スマートマニュファクチャリングとシステム�
 category: past
 ---
 
-{% include cfp3.md %}
+{% include 3rd.md %}

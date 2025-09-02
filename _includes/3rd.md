@@ -66,6 +66,10 @@ table.small-table {
 | 江成 陽矢 (東京理科大学) | 背景差分法とオートエンコーダを組み合わせた自動検品システムによるコネクタピンの異常検知 |
 | 土肥 宏太 (東京大学) | 擬似異常画像の活用による頑健な言語指示型異常画像検知 |
 
+## 予稿集（人工知能学会第二種研究会資料）
+
+[https://www.jstage.jst.go.jp/browse/jsaisigtwo/2025/SMSHM-003/_contents/-char/ja](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2025/SMSHM-003/_contents/-char/ja)
+
 ## プログラム
 
 [PDFファイル](/assets/sigsmshm3_program.pdf)をご覧ください。

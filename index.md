@@ -16,4 +16,4 @@ description: "SIG-SMSHMは人工知能学会第二種研究会のひとつで、
 
 # 第４回 スマートマニュファクチャリングとシステム健全性管理研究会
 
-{% include cfp4.md %}
+{% include 4th.md %}

@@ -22,6 +22,10 @@
 
 研究会会場の４号館の隣（キャンパス奥側）の建物です（↑の地図をご参照ください）。
 
+## 予稿集（人工知能学会第二種研究会資料）
+
+[https://www.jstage.jst.go.jp/browse/jsaisigtwo/2024/SMSHM-001/_contents/-char/ja](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2024/SMSHM-001/_contents/-char/ja)
+
 ## プログラム
 
 - 一般講演: 1件あたり20分（発表15分+質疑5分）

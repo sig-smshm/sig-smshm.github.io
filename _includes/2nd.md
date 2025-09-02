@@ -32,6 +32,10 @@ Smart Manufacturing および System Health Management（SM&SHM、システム�
 発表および聴講の参加費は無料です。人工知能学会員に限らずどなたでも申し込みいただけます。
 幅広い皆様の発表申し込み、参加申し込みをお待ちしております。
 
+## 予稿集（人工知能学会第二種研究会資料）
+
+[https://www.jstage.jst.go.jp/browse/jsaisigtwo/2024/SMSHM-002/_contents/-char/ja)](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2024/SMSHM-002/_contents/-char/ja)
+
 ## プログラム
 
 - 一般講演: 1件あたり25分（発表20分+質疑5分）
