@@ -57,14 +57,17 @@ AIが「なぜ」その予測や判断に至ったのかを人間が理解でき
   - 発表件数を鑑み、発表種別を調整させていただくことがございます。
 
 発表申し込みは以下のフォームからお願いいたします。<br />
-[https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/SIGAIs2025/smshm](https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/SIGAIs2025/smshm)<br />
+[https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/SIGAIs2025/smshm](https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/SIGAIs2025/smshm)
+
+**発表される方も、別途、下記URLからの参加登録が必要になります。**<br />
+[https://www.ai-gakkai.or.jp/sigais2025/registration/](https://www.ai-gakkai.or.jp/sigais2025/registration/)
+
 発表者は対面を想定しております。人工知能学会員に限らずどなたでも申し込みいただけます。
 発表参加費は無料です。
 
 ## 聴講申込
 
-聴講申込(参加登録)は以下のURLからお願いします。
-
+聴講申込(参加登録)は以下のURLからお願いします。<br />
 [https://www.ai-gakkai.or.jp/sigais2025/registration/](https://www.ai-gakkai.or.jp/sigais2025/registration/)
 
 ※参加予定の研究会の項目にて、**「スマートマニュファクチャリングとシステム健全性管理研究会」**を選択ください。
