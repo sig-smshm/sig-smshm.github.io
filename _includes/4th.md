@@ -47,7 +47,7 @@ AIが「なぜ」その予測や判断に至ったのかを人間が理解でき
 
 原稿提出期限: <span class="deadline">2025年10月28日（火） 23:59 JST</span>
 
-聴講申込期限: TBD
+聴講申込期限: <span class="deadline">2025年11月24日（月） 23:59 JST</span>
 
 ## 発表申込
 
@@ -63,7 +63,11 @@ AIが「なぜ」その予測や判断に至ったのかを人間が理解でき
 
 ## 聴講申込
 
-後日掲載いたします。
+聴講申込(参加登録)は以下のURLからお願いします。
+
+[https://www.ai-gakkai.or.jp/sigais2025/registration/](https://www.ai-gakkai.or.jp/sigais2025/registration/)
+
+※参加予定の研究会の項目にて、**「スマートマニュファクチャリングとシステム健全性管理研究会」**を選択ください。
 
 ## 懇親会
 
