@@ -43,7 +43,7 @@ AIが「なぜ」その予測や判断に至ったのかを人間が理解でき
 
 ## 重要日程
 
-発表申込期限: <span class="deadline">2025年10月14日（火） 23:59 JST</span>
+発表申込期限: <s>2025年10月14日（火） 23:59 JST</s>&nbsp;&nbsp;<span class="deadline">2025年10月21日（火） 23:59 JST</span>（延長しました）
 
 原稿提出期限: <span class="deadline">2025年10月28日（火） 23:59 JST</span>
 
