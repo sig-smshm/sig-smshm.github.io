@@ -12,7 +12,7 @@
 所在地: 神奈川県横浜市港北区日吉4-1-1<br />
 地図: [https://maps.app.goo.gl/zCBfzhe7HyJ3wEDXA](https://maps.app.goo.gl/zCBfzhe7HyJ3wEDXA)
 
-オンライン会場：zoomを利用します（リンクは後日お知らせいたします）
+オンライン会場: [https://us06web.zoom.us/j/89034624186](https://us06web.zoom.us/j/89034624186)
 
 ## 開催趣旨
 
