@@ -19,4 +19,4 @@ title: "過去の研究会"
 ## 人工知能学会全国大会オーガナイズドセッション
 
 - 2025年 [(1)](https://confit.atlas.jp/guide/event/jsai2025/session/4F01-05/date) [(2)](https://confit.atlas.jp/guide/event/jsai2025/session/4F06-10/date) [(3)](https://confit.atlas.jp/guide/event/jsai2025/session/4F11-15/date) 
-
+- 2026年 [(1)](https://pub.confit.atlas.jp/ja/event/jsai2026/session/7mk0MefS) [(2)](https://pub.confit.atlas.jp/ja/event/jsai2026/session/vUg9W9k6)
