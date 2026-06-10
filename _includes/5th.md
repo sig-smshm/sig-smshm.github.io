@@ -59,9 +59,11 @@ TBD
 
 また、懇親会の申込期限は 2026年7月10日（金） 23:59 JST を予定しています。
 
-## 発表申込
+## 発表申込・原稿提出
 
-発表申し込みは以下のフォーム（準備中）からお願いいたします。
+発表申し込みは下記のフォームからお願いいたします。
+
+[https://www.ai-gakkai.or.jp/sig-system/sigusers/presenter_add/smshm/sig_smshm_5](https://www.ai-gakkai.or.jp/sig-system/sigusers/presenter_add/smshm/sig_smshm_5)
 
 発表者は対面を想定しております。
 人工知能学会員に限らずどなたでも申し込みいただけます。
@@ -83,16 +85,14 @@ TBD
 なお、研究会主査及び幹事で構成する委員会において原稿内容が研究会の趣旨から大きく外れると認められる場合には、発表をお断りする場合があります。
 また、申し込み多数の場合には、期間途中で受付を終了する場合があります。
 
-## 原稿提出
-
-（準備中です）
-
 ## 聴講申込
 
 聴講の参加申し込みは以下のフォームからお願いいたします。
 
-オフライン会場で聴講の方: （準備中）<br />
-オンライン会場でのみ聴講の方: （準備中）
+オフライン会場で聴講の方: [https://www.ai-gakkai.or.jp/sig-system/sigusers/add/smshm/sig_smshm_5](https://www.ai-gakkai.or.jp/sig-system/sigusers/add/smshm/sig_smshm_5)<br />
+オンライン会場でのみ聴講の方:
+[https://www.ai-gakkai.or.jp/sig-system/sigusers/add/smshm/sig_smshm_5_online](https://www.ai-gakkai.or.jp/sig-system/sigusers/add/smshm/sig_smshm_5_online)
+
 
 聴講参加費は無料です。
 定員に達した場合、オンライン参加のみの募集となりますので、 お早めにお申し込みください。
