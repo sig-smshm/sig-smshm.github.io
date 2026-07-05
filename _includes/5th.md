@@ -55,9 +55,9 @@ TBD
 
 ## 重要日程
 
-発表申込期限: <span class="deadline">2026年7月3日（金） 23:59 JST</span>
+発表申込期限: <s>2026年7月3日（金） 23:59 JST</s> <span class="deadline">2026年7月10日（金） 23:59 JST</span>（延長しました）
 
-原稿提出期限: <span class="deadline">2026年7月10日（金） 23:59 JST</span>
+原稿提出期限: <s>2026年7月10日（金） 23:59 JST</s> <span class="deadline">2026年7月17日（金） 23:59 JST</span>（延長しました）
 
 聴講申込期限: <span class="deadline">2026年7月24日（金） 23:59 JST</span>
 
