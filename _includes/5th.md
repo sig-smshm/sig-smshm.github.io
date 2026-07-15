@@ -51,7 +51,69 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 
 ## プログラム
 
-TBD
+- 一般講演: 1件あたり25分（発表20分+質疑5分）
+
+<style type="text/css">
+	.program td,th { vertical-align: top; }
+	.mark { background-color: #eee; }
+</style>
+
+<table class="program" style="font-size: small;">
+	<tbody>
+		<tr>
+			<th>10:00-11:00</th>
+			<td>基調講演：（タイトル調整中）<br />小西 弘一（産業技術総合研究所）</td>
+		</tr>
+		<tr>
+			<th>11:00-11:25</th>
+			<td>一般発表：異解像度計測データ融合による林野火災デジタルツインの延焼推定における可視化・検証と避難支援への活用<br />矢部 俊治（株式会社スペースデータ / 株式会社Stray Cats）</td>
+		</tr>
+		<tr>
+			<th>11:25-11:50</th>
+			<td>一般発表：低フレームレートカメラを用いた三次元画像相関法と圧縮センシングによる高周波微小振動計測<br />綿引 壮真（株式会社構造計画研究所）</td>
+		</tr>
+		<tr class="mark">
+			<th>11:50-13:00</th>
+			<td>昼食（各自）</td>
+		</tr>
+		<tr class="mark">
+			<th>13:00-14:00</th>
+			<td>SerendieStreet 見学ツアー</td>
+		</tr>
+		<tr>
+			<th>14:15-14:40</th>
+			<td>一般発表：データ同化に基づくベイズD最適基準を用いた構造物の最適観測設計<br />大峡 充己（株式会社構造計画研究所）</td>
+		</tr>
+		<tr>
+			<th>14:40-15:05</th>
+			<td>一般発表：バンドパスROCLTSによる回転機向け波形劣化診断の性能検証<br />町田 仁（株式会社東芝）</td>
+		</tr>
+		<tr>
+			<th>15:05-15:30</th>
+			<td>一般発表：微細異常検知に対応したコネクタピン自動検品システム<br />江成 陽矢（東京理科大学）</td>
+		</tr>
+		<tr class="mark">
+			<th>15:30-15:45</th>
+			<td>休憩</td>
+		</tr>
+		<tr>
+			<th>15:45-16:10</th>
+			<td>一般発表：数学的連続形状の離散化知識に基づく3Dメッシュ最適化<br />田鍋 史生（東京大学）</td>
+		</tr>
+		<tr class="mark">
+			<th>16:10-16:20</th>
+			<td>表彰式</td>
+		</tr>
+		<tr class="mark">
+			<th>16:20-17:00</th>
+			<td>総括</td>
+		</tr>
+		<tr class="mark">
+			<th>17:15-19:00</th>
+			<td>懇親会</td>
+		</tr>
+	</tbody>
+</table>
 
 ## 重要日程
 
