@@ -51,6 +51,8 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 
 ## プログラム
 
+[研究会予稿集 (J-STAGE)](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2026/SMSHM-005/_contents/-char/ja)
+
 - 一般講演: 1件あたり25分（発表20分+質疑5分）
 
 <style type="text/css">
