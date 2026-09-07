@@ -16,6 +16,7 @@ title: "過去の研究会"
 - [第３回](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2025/SMSHM-003/_contents/-char/ja)
 - [第４回](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2025/SMSHM-004/_contents/-char/ja)
 - [第５回](https://www.jstage.jst.go.jp/browse/jsaisigtwo/2026/SMSHM-005/_contents/-char/ja)
+- 第６回
 
 ## 人工知能学会全国大会オーガナイズドセッション
 
