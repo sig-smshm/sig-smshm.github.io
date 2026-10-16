@@ -49,7 +49,7 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 
 ## 各種申し込み日程
 
-- 発表申込締切: <span class="deadline">2026年10月16日（金） 23:59 JST</span>
+- 発表申込締切: <s>2026年10月16日（金）</s> <span class="deadline">2026年10月23日（金） 23:59 JST</span>（延長しました）
 - 原稿提出締切: <span class="deadline">2026年10月30日（金） 23:59 JST</span>
 
 予稿集作成の都合上、締切を厳守願います。
