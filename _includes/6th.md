@@ -50,7 +50,7 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 ## 各種申し込み日程
 
 - 発表申込締切: <s>2026年10月16日（金）</s> <span class="deadline">2026年10月23日（金） 23:59 JST</span>（延長しました）
-- 原稿提出締切: <span class="deadline">2026年10月30日（金） 23:59 JST</span>
+- 原稿提出締切: <s>2026年10月30日（金）</s> <span class="deadline">2026年11月7日（金） 23:59 JST </span>（延長しました）
 
 予稿集作成の都合上、締切を厳守願います。
 
@@ -59,13 +59,13 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 - 一般発表 発表時間: 1件当たり20分（発表15分＋質疑5分）
 - ポジション発表 発表時間: 1件当たり30分（発表25分＋質疑5分）
 
-発表申し込み時に希望として発表種別をご選択ください。<br />
+発表申し込み時に希望として発表種別をご選択ください（備考欄にその旨記入ください）。<br />
 発表件数を鑑み、発表種別を調整させていただくことがございます。
 
 発表申し込みは以下のURLからお願いします。<br />
 [https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/SIGAIs2026/smshm](https://www.ai-gakkai.or.jp/sig-system/confusers/presenter_add/SIGAIs2026/smshm)
 
-※発表される方も別途、参加登録が必須となります。URLは後日掲載いたします。
+**発表される方も別途、参加申込が必須**となります。
 
 発表は対面を想定しております。
 人工知能学会員に限らずどなたでも申し込みいただけます。
@@ -75,11 +75,18 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 - 予稿集作成の都合上、締切厳守でお願いいたします。
 - 発表件数により時間調整を行う場合がありますので、予めご了承下さい。
 
-## 聴講申込（参加登録）
+## 参加申込
 
-聴講申込（参加登録）は合同研究会のWebページからお願いします。URLは後日掲載いたします。
+参加申込は合同研究会のWebページからお願いします。
+聴講のみの方だけでなく、**発表者も参加申込が必要**です。<br />
+[https://www.ai-gakkai.or.jp/sigais2026/registration/](https://www.ai-gakkai.or.jp/sigais2026/registration/)
 
 ※参加予定の研究会の項目にて、「スマートマニュファクチャリングとシステム健全性管理研究会」を選択ください。
+
+## 懇親会
+
+参加者交流のためにSIG-SMSHM独自の懇親会を企画しています。
+詳細は決まり次第アナウンスいたします。
 
 ## 原稿提出
 
