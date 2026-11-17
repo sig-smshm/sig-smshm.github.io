@@ -35,17 +35,97 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 
 ## 招待講演
 
-後日掲載いたします。
+**Research and Future Directions in Human–Robot Collaborative Physical AI: Robot Manipulation through Teleoperation, Tactile Sensing, and Foundation Models**
 
-## ポジション発表
-
-※ SMSHMに関する課題や方向性についての議論。ポジション発表の場合、予稿原稿の提出は必須ではないですが、提出いただけますと表彰の対象となります。
-
-後日掲載いたします。
+朱 曜南（東京大学）
 
 ## プログラム
 
-後日掲載いたします。
+<style type="text/css">
+	.program td,th { vertical-align: top; }
+	.mark { background-color: #eee; }
+</style>
+
+<table class="program" style="font-size: small;">
+  <tbody>
+    <tr class="mark">
+      <th>9:20-9:25</th>
+      <td>開会</td>
+    </tr>
+    <tr>
+      <th>9:25-9:45</th>
+      <td>一般発表: 振動アクティブセンシングの診断問題におけるAI実装<br />高田 宗一朗（東京工業高等専門学校）</td>
+    </tr>
+    <tr>
+      <th>9:45-10:05</th>
+      <td>一般発表: 画像相関法と加速度計測に基づく低次元表現を用いた全視野振動応答の再構成<br />綿引 壮真（株式会社構造計画研究所）</td>
+    </tr>
+    <tr>
+      <th>10:05-10:25</th>
+      <td>一般発表: 物理知識を用いた時間領域特徴学習による回転機械要素の振動診断<br />吉松 修（日本精工株式会社）</td>
+    </tr>
+    <tr>
+      <th>10:25-10:45</th>
+      <td>一般発表: 複数のスキーマが混在する時系列データに対するLLMを用いた特徴抽出とマルチインスタンス学習による故障予測<br />高山 諒介（日本電気株式会社）</td>
+    </tr>
+    <tr class="mark">
+      <th>10:45-10:55</th>
+      <td>小休憩</td>
+    </tr>
+    <tr>
+      <th>10:55-11:15</th>
+      <td>一般発表: GNNにおける三次元形状の潜在幾何構造形成過程の解析<br />田鍋 史生（東京大学）</td>
+    </tr>
+    <tr>
+      <th>11:15-11:35</th>
+      <td>一般発表: 点密度変動に対する屋内3次元物体検出の頑健化<br />太田 修太郎（慶應義塾大学）</td>
+    </tr>
+    <tr>
+      <th>11:35-11:55</th>
+      <td>一般発表: 機器データとテキストデータのクロスモーダル学習による作業報告書検索<br />山本 晋太郎（株式会社東芝）</td>
+    </tr>
+    <tr>
+      <th>11:55-12:15</th>
+      <td>一般発表: サプライチェーンにおけるデータ連携標準の普及メカニズムのシミュレーション分析<br />田嶋 真寛（東京大学）</td>
+    </tr>
+    <tr class="mark">
+      <th>12:20-15:30</th>
+      <td><a href="https://www.ai-gakkai.or.jp/sigais2026/programatglance/" target="_blank">SIGAIs 合同企画・ポスターセッション</a></td>
+    </tr>
+    <tr>
+      <th>15:30-16:00</th>
+      <td>招待講演: Research and Future Directions in Human–Robot Collaborative Physical AI: Robot Manipulation through Teleoperation, Tactile Sensing, and Foundation Models.<br />朱 曜南（東京大学）</td>
+    </tr>
+    <tr>
+      <th>16:00-16:20</th>
+      <td>一般発表: 階層数理モデルによる特徴量の物理的解釈 ―宇宙機推進系における異常検知への適用―<br />田村 拓幹（東京科学大学）</td>
+    </tr>
+    <tr>
+      <th>16:20-16:40</th>
+      <td>一般発表: 公開データセットを用いた人工衛星異常検知における時系列基盤モデルの試行<br />堤 誠司（宇宙航空研究開発機構）</td>
+    </tr>
+    <tr>
+      <th>16:40-17:00</th>
+      <td>一般発表: 予知保全における予測可能性と問題設定の設計 ～可観測性・観測選択・予測閉包性の視点から～<br />今村 誠（東海大学）</td>
+    </tr>
+    <tr class="mark">
+      <th>17:00-17:10</th>
+      <td>小休憩</td>
+    </tr>
+    <tr>
+      <th>17:10-18:00</th>
+      <td>SMSHM研究会　パネルディスカッション</td>
+    </tr>
+    <tr class="mark">
+      <th>18:00-18:10</th>
+      <td>閉会・会場片付け</td>
+    </tr>
+    <tr class="mark">
+      <th>18:30-</th>
+      <td>SMSHM研究会 懇親会</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 各種申し込み日程
 
@@ -86,7 +166,17 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 ## 懇親会
 
 参加者交流のためにSIG-SMSHM独自の懇親会を企画しています。
-詳細は決まり次第アナウンスいたします。
+
+- 参加費：7,000円（当日現金でお支払いください）
+- 日時：2026年12月5日（土）18:30～（予定）
+- 場所： ワイン酒場 Sunkaku（サンカク）<br />神奈川県横浜市港北区日吉2-2-16 2F
+- キャンセルポリシー: 7日前～前日キャンセル料50％、当日キャンセル料100%となります。キャンセルの際は、必ず事務局（sigsmshm-secretary-group@g.ecc.u-tokyo.ac.jp）までご連絡ください。
+- 領収証: 発行できません。ご了承ください。
+- 懇親会申込締切：2026年11月20日（金）
+
+研究会の参加登録とは別に、以下のURLから参加登録をお願いいたします。<br />
+[https://forms.cloud.microsoft/r/vDuvsdMHUf](https://forms.cloud.microsoft/r/vDuvsdMHUf)
+
 
 ## 原稿提出
 
@@ -104,6 +194,14 @@ Smart Manufacturing および System Health Management（SM&SHM）は、機械�
 提出いただいた原稿は研究会当日にオンライン会場にて電子的に配布いたします。
 原稿著作権等に関する扱いは研究会著作権規程を参照ください。
 なお、研究会主査及び幹事で構成する委員会において原稿内容が研究会の趣旨から大きく外れると認められる場合には、発表をお断りする場合があります。
+
+## ロボット学会学生レポーターによる取材・撮影について
+
+当日は、日本ロボット学会の学生レポーターによる取材・写真撮影が行われる可能性があります。
+
+- 取材・撮影の内容は、日本ロボット学会の学会誌等に掲載される可能性があります。
+- 学生レポーターは、取材担当者であることが分かるよう腕章を着用する予定です。
+
 
 ## お問い合わせ先
 
